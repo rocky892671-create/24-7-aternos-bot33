@@ -27,7 +27,7 @@
   "sneak": true,
   "jump": true,
   "rotate": true,
-  "swing-arm": true,
+  "swing-arm": true
     },
     "chat-log": true,
     "auto-reconnect": true,
