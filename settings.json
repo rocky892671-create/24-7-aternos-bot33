@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "subhamgupta08.aternos.me:59480",
+    "ip": "subhamgupta08.aternos.me",
     "port": 59480,
     "version": "1.20.1",
     "try-creative": false
